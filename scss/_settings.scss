@@ -56,10 +56,14 @@ $xlarge-breakpoint: em-calc(1920);
 // $large-only: "#{$screen} and (min-width:#{lower-bound($large-range)}) and (max-width:#{upper-bound($large-range)})";
 
 // $xlarge-up: "#{$screen} and (min-width:#{lower-bound($xlarge-range)})";
+// $desktop-medium-landscape
+// $desktop-medium
 // $xlarge-only: "#{$screen} and (min-width:#{lower-bound($xlarge-range)}) and (max-width:#{upper-bound($xlarge-range)})";
 
 // $xxlarge-up: "#{$screen} and (min-width:#{lower-bound($xxlarge-range)})";
+// $desktop-large
 // $xxlarge-only: "#{$screen} and (min-width:#{lower-bound($xxlarge-range)}) and (max-width:#{upper-bound($xxlarge-range)})";
+// $desktop-xlarge
 
 // $retina: (
 //  "#{$screen} and (-webkit-min-device-pixel-ratio: 2)",
