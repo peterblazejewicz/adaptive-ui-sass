@@ -37,6 +37,10 @@ $xlarge-breakpoint: em-calc(1920);
 // $portrait: "#{$screen} and (orientation: portrait)";
 
 // $small-up: $screen;
+// $mobile-small
+// $mobile-large
+// $mobile-small-landscape
+// $mobile-large-landscape
 // $small-only: "#{$screen} and (max-width: #{upper-bound($small-range)})";
 
 // $medium-up: "#{$screen} and (min-width:#{lower-bound($medium-range)})";
